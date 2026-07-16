@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Hasan Shakib
 
-<!--
-**shakib-24/shakib-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Web Developer
 
-Here are some ideas to get you started:
+🚀 Building modern web applications with React, Next.js & TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Tokyo, Japan
+
+---
+
+## 💻 Tech Stack
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+- Supabase
+- PostgreSQL
+- Git & GitHub
+- Vercel
+
+---
+
+## 🚀 Featured Projects
+
+- 🏢 Engineer Match Platform
+- 🏥 Healthcare Support
+- 📅 Smart Planner
+- 💼 KintaiPro
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Next.js
+- System Design
+- Clean Architecture
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/shakib-24
+- Upwork: (Coming Soon)
