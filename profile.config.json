@@ -1,0 +1,86 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Shakib Hasan",
+    "username": "shakib-24",
+    "headline": "System Engineer & AI-Assisted Builder",
+    "affiliation": "Contract Software Engineer",
+    "location": "Tokyo, Japan",
+    "status": "Building / Automating / Shipping",
+    "about": [
+      "System Engineer based in Tokyo, Japan, working across full-stack web development, AI-assisted engineering, and automation.",
+      "I focus on building reliable, well-structured applications and increasingly integrating AI-assisted workflows into day-to-day engineering."
+    ]
+  },
+  "research": {
+    "primary": "AI-Assisted Engineering",
+    "direction": "Practical AI-assisted workflows",
+    "themes": "Automation / tooling / reliability",
+    "narrative": "I'm interested in integrating AI-assisted workflows across the development lifecycle, from scaffolding and debugging to code review and documentation, while keeping systems reliable and maintainable."
+  },
+  "focus": [
+    {
+      "name": "Frontend",
+      "description": "Building clean, responsive interfaces with Next.js, React, and TypeScript."
+    },
+    {
+      "name": "Backend",
+      "description": "Reliable APIs and systems in Python (Django) and Java."
+    },
+    {
+      "name": "Automation",
+      "description": "AI-assisted workflows and tooling across the development lifecycle."
+    },
+    {
+      "name": "Quality",
+      "description": "Testing and maintainable, well-structured code."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Engineer Match",
+      "url": "https://github.com/shakib-24",
+      "homepage": "",
+      "focus": "Instructor-IT company matching platform",
+      "summary": "A matching platform connecting IT-training instructors with companies, built with Next.js, TypeScript, Tailwind CSS, and Supabase.",
+      "heroLabel": "Matching platform"
+    },
+    {
+      "name": "HealthSupport",
+      "url": "https://github.com/shakib-24",
+      "homepage": "",
+      "focus": "Medical matching web app with payments",
+      "summary": "A medical matching web application with online payments, built with Next.js, TypeScript, and PAY.JP.",
+      "heroLabel": "Healthcare matching"
+    },
+    {
+      "name": "Smart Planner",
+      "url": "https://github.com/shakib-24",
+      "homepage": "",
+      "focus": "Productivity and task management app",
+      "summary": "A productivity and task management app built with Next.js, React, and TypeScript.",
+      "heroLabel": "Task management"
+    },
+    {
+      "name": "KintaiPro",
+      "url": "https://github.com/shakib-24",
+      "homepage": "",
+      "focus": "Attendance and payroll management system",
+      "summary": "An attendance and payroll management system built with Next.js, Supabase, and PostgreSQL.",
+      "heroLabel": "Attendance & payroll"
+    }
+  ],
+  "techStack": ["Next.js", "React", "TypeScript", "JavaScript", "Tailwind CSS", "Python", "Django", "Java", "PostgreSQL", "MySQL", "Supabase", "Docker", "AWS", "Git", "GitHub", "OpenAI"],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "shakib-24",
+      "url": "https://github.com/shakib-24",
+      "logo": "github",
+      "color": "0B1220"
+    }
+  ],
+  "activity": { "enabled": true, "limit": 6 },
+  "appearance": { "palette": "ocean" },
+  "footer": "Building reliable software from idea to deployment."
+}
